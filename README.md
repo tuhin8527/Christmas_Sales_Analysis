@@ -22,19 +22,14 @@ In this project we're doing sales analysis during the Christmas which mainly dea
 
 - Analyze the behaviour of customers to buy the products 
 
-<h3 align="left">Languages and Tools used for this Project:</h3>
-<p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tuhin8527&show_icons=true&locale=en&layout=compact" alt="tuhin8527" /></p>
-
-
-<br></br>
-
 <h3 align="left">Conclusion:</h3>
 
 The project reveals that majority of the respondent is spending more amount of money during Christmas than the normal days whereas only very few respondents are spending less amounts since they are working in low profile based companies such as Textile and Agriculture. Hence it is clear that Christmas Sales have a huge impact on the spending of customers. 
 The study on this project tries to understand the consumer behaviour during Christmas Sales which resulted in understanding the basic matters that influence customers while buying products during Christmas. Major item purchased during this season is Food,Clothing & Apparel and Electronics & Gadgets and there are lot of impulse purchases happening during Christmas. To tap this opportunities, designers, manufacturers, and sellers of respective products should be up to date with target consumer behaviour , so that they can utilise the opportunity well.
 
+<h3 align="left">Languages and Tools used for this Project:</h3>
+<p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tuhin8527&show_icons=true&locale=en&layout=compact" alt="tuhin8527" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tuhin8527&" alt="tuhin8527" /></p>
