@@ -27,6 +27,9 @@ In this project we're doing sales analysis during the Christmas which mainly dea
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tuhin8527&show_icons=true&locale=en&layout=compact" alt="tuhin8527" /></p>
 
+
+<br></br>
+
 <h3 align="left">Conclusion:</h3>
 
 The project reveals that majority of the respondent is spending more amount of money during Christmas than the normal days whereas only very few respondents are spending less amounts since they are working in low profile based companies such as Textile and Agriculture. Hence it is clear that Christmas Sales have a huge impact on the spending of customers. 
