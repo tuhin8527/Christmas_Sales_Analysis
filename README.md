@@ -1,7 +1,6 @@
 <h1 align="center">Christmas_Sales_Analysis Project</h1>
 
 
-- 🔭 I have Currently completed this Project on **Christmas Sales Analysis**
 
 <p align="left">
 </p>
