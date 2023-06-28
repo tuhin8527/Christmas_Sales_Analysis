@@ -10,7 +10,7 @@ Data analysis includes the inspection, modification, modeling, and transformatio
 In this project we're doing sales analysis during the Christmas which mainly deals with Exploratory Data Analysis (EDA) using Python Libraries like numpy,pandas,matplotlib and seaborn. The Project basically consist of enhancing the sales of the Retailer by recognizing top selling product distribution among the various age-groups. It also signifies the purchasing amount of customers based on their Gender,State,Marital Status, Occupation,Product Category and Product ID. In this project we are comparing the number of quantity sold with the price of the each product. The main objective of this project is to analyze the behaviour of customers to buy the products during christmas and to suggest strategies which retailers can use accordingly to boost their sales. It also improves company's strategy to increase personalised recommendations.
 
 <h3 align="left">Description of EDA:</h3>
-Exploratory Data Analysis (EDA) is the crucial step in Data Analysis.involving Data Exploration,Visualization and Summarization to uncover patterns and gain insights. EDA helps us to understand the structure and characteristics of the dataset,detect outliers and identify relationships between variables through statistical analysis and visualizations.
+Exploratory Data Analysis (EDA) is the crucial step in Data Analysis involving Data Exploration,Visualization and Summarization to uncover patterns and gain insights. EDA helps us to understand the structure and characteristics of the dataset,detect outliers and identify relationships between variables through statistical analysis and visualizations.
 
 <h3 align="left">Workflow:</h3>
 
